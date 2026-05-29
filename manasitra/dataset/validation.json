@@ -1,0 +1,9 @@
+[
+  {"text": "Life is beautiful and I feel blessed.", "emotion": "happy"},
+  {"text": "I sit alone every lunch break.", "emotion": "lonely"},
+  {"text": "I feel a deep sadness I can't explain.", "emotion": "sad"},
+  {"text": "I'm so frustrated I could explode.", "emotion": "angry"},
+  {"text": "I have too much on my plate right now.", "emotion": "stress"},
+  {"text": "I'm scared something bad is going to happen.", "emotion": "anxiety"},
+  {"text": "I read a book and went to sleep early.", "emotion": "neutral"}
+]

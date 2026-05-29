@@ -1,0 +1,10 @@
+torch==2.2.2
+transformers==4.40.1
+datasets==2.19.1
+scikit-learn==1.4.2
+accelerate==0.29.3
+numpy==1.26.4
+openai-whisper==20231117
+TTS==0.22.0
+sounddevice==0.4.6
+soundfile==0.12.1

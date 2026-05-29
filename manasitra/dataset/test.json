@@ -1,0 +1,9 @@
+[
+  {"text": "I'm feeling really joyful and energetic!", "emotion": "happy"},
+  {"text": "No one remembers my birthday, I feel invisible.", "emotion": "lonely"},
+  {"text": "I broke down crying for no reason.", "emotion": "sad"},
+  {"text": "I slammed the door because I was so mad.", "emotion": "angry"},
+  {"text": "My exams are tomorrow and I'm panicking.", "emotion": "stress"},
+  {"text": "I keep imagining worst case scenarios.", "emotion": "anxiety"},
+  {"text": "I just finished my lunch and took a walk.", "emotion": "neutral"}
+]
